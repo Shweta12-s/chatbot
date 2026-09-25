@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FastAPI Docs RAG Chatbot
 
 A chatbot that answers questions from the FastAPI documentation.
@@ -64,3 +65,7 @@ in the top 5 search results.
   baseline.
 - Meaning-based search can confuse similar words (e.g. "path" in path
   parameters vs the PATH environment variable).
+=======
+# chatbot
+RAG chatbot over the FastAPI documentation, with hybrid search and a measured retrieval evaluation pipeline.
+>>>>>>> 20af5163f5a435c76206557c84dc46a49f0e34e6
