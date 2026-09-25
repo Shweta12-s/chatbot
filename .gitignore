@@ -1,0 +1,6 @@
+.venv/
+chroma_db/
+corpus.jsonl
+__pycache__/
+*.pyc
+results.txt
